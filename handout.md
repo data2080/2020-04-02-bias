@@ -23,9 +23,11 @@ The next two classes will be about bias and fairness. First we'll talk about how
 <hr>
 
 
+# Bias Audit Checklist
+
 target audience:
 - team that built the system
-- journalism pitch
+- journalist pitch
 - impacted person's lawyer
 
 1. Identify the system with link
@@ -34,7 +36,7 @@ target audience:
 1. What statistical structures might you expect?
 1. What questions would you ask about the data used for training?
 1. What EDA would you do if you had access to the training data?
-1. What type of audit would you receommend?
+1. What type of audit would you recommend?
 1. What data would be needed for an audit?
-1. What
+1. What type of fairness metric(s) would you recommend for this and why?
 
